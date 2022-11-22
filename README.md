@@ -72,7 +72,7 @@
 <table align="center">
 <tr>
 <td valign="top">
-  ### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">个人博客</a>
+  🤾‍♂️ <a href="https://gql.fit/" target="_blank">个人博客</a>
 </td> 
 </tr>
 </table>
