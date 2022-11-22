@@ -118,7 +118,7 @@
     
 <td valign="top">
   
-### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">Funny Soul</a
+  ### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">Funny Soul</a>
 </td> 
 </tr>
 </table>
