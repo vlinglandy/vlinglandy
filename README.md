@@ -28,10 +28,6 @@
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是皮卡秋！热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;春华秋实，努力一定会有收获。</p>
-
 
 💪 正在学习: 
 &emsp;&emsp;
@@ -94,31 +90,17 @@
 <!-- metrics 基础资料 -->
 
 
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
-
-<!-- GitHub奖杯🏆 -->
-<!-- <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=vlinglandy&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-<br> -->
-
-<!-- GitHub数据统计 -->
-<!-- <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=vlinglandy&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlinglandy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div> -->
-<br>
-
 <!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://gql.fit/" target="_blank">Recent Blog</a>
+### 🤹‍♀️ <a href="https://gql.fit/" target="_blank">个人</a>
 </td>
     
 <td valign="top">
   
-  ### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">Funny Soul</a>
+  ### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">博客</a>
 </td> 
 </tr>
 </table>
