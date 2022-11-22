@@ -6,8 +6,8 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>
+<!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br> -->
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -19,10 +19,10 @@
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vlinglandy" alt="访客统计" /></div>
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=vlinglandy" alt="访客统计" /></div> -->
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/vlinglandy/vlinglandy/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/vlinglandy/vlinglandy/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
 
 #  🙋 Hello
@@ -98,14 +98,14 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=vlinglandy&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-<br>
+<!-- <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=vlinglandy&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<br> -->
 
 <!-- GitHub数据统计 -->
-<div align="center">
+<!-- <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=vlinglandy&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlinglandy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+</div> -->
 <br>
 
 <!-- 最近博客和豆瓣动态 -->
@@ -120,61 +120,5 @@
   
 ### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">Funny Soul</a
 </td> 
-</tr>
-</table>
-
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-  
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    255 commits    ██████████░░░░░░░░░░░░░░░   41.6% 
-🌆 Daytime    149 commits    ██████░░░░░░░░░░░░░░░░░░░   24.31% 
-🌃 Evening    133 commits    █████░░░░░░░░░░░░░░░░░░░░   21.7% 
-🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Tuesday      81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
-Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-Thursday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Friday       161 commits    ██████░░░░░░░░░░░░░░░░░░░   26.26% 
-Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Sunday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   23 mins             █████████████░░░░░░░░░░░░   51.94% 
-JSON                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87% 
-Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.55%
-
-🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 05/11/2022 02:02:50 UTC
-<!--END_SECTION:waka-->
-</td>
 </tr>
 </table>
