@@ -22,7 +22,7 @@
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=vlinglandy" alt="访客统计" /></div> -->
 
 <!-- 贪吃蛇代码贡献图 -->
-<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/vlinglandy/vlinglandy/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/vlinglandy/vlinglandy/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 
 #  🙋 Hello
@@ -45,16 +45,6 @@
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
 </div>
 <p></p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
-   <img src="https://img.shields.io/badge/-Express-%33A2?style=flat-square&logo=Express">
-</div>
-
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
@@ -71,17 +61,6 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<!-- Gif -->
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-</div>
 
 <!-- profile-3d-contrib -->
 
@@ -95,12 +74,10 @@
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://gql.fit/" target="_blank">个人</a>
-</td>
     
 <td valign="top">
   
-  ### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">博客</a>
+  ### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">个人博客</a>
 </td> 
 </tr>
 </table>
