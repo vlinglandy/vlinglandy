@@ -71,11 +71,7 @@
 <!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
-<td valign="top">    
-
-    
 <td valign="top">
-  
   ### 🤾‍♂️ <a href="https://gql.fit/" target="_blank">个人博客</a>
 </td> 
 </tr>
