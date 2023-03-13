@@ -18,11 +18,12 @@
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=vlinglandy" alt="访客统计" /> -->
 </div>
 
-#  🙋 Hello
+# 皮卡秋 🧑🏻‍💻
 
-<p>✍️&nbsp;&nbsp;大家好，我是皮卡秋！热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;pikaqiu a beginner who is passionate about exploring new things in development. Currently, he is a newcomer to the workforce and is located in Shanghai.</p>
 
-💪 正在学习: 
+💪 He has the following skills:
+**Web Developer**
 &emsp;&emsp;
 <p align="center">
 <div align="center">
@@ -41,7 +42,7 @@
 <br />
 
 
-🧰 常用的工具:
+🧰 **Environment**
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -64,7 +65,7 @@
 <!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
-<td valign="top">
+<td valign="left">
   🤾‍♂️ <a href="https://gql.fit/" target="_blank">个人博客</a>
 </td> 
 </tr>
