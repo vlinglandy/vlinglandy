@@ -1,30 +1,31 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://gql.fit/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);皮卡秋祝您今天愉快！&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);4%20Years%20Frontend%20Engineer;%E4%B8%93%E6%B3%A8%E5%B7%A5%E7%A8%8B%E5%8C%96%E3%80%81%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BA%A4%E4%BB%98&center=true&size=27">
   </a>
 </h1>
 
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://gql.fit/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <!-- <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
-<!-- 访客数统计徽标 -->
-<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=vlinglandy" alt="访客统计" /> -->
 </div>
 
-# 皮卡秋 🧑🏻‍💻
+# 青衡 🧑🏻‍💻
 
-<p>✍️&nbsp;&nbsp;pikaqiu a beginner who is passionate about exploring new things in development. Currently, he is a newcomer to the workforce and is located in Shanghai.</p>
+<p>
+  ✍️&nbsp;&nbsp;四年前端开发工程师，现居上海。长期专注于 Web 前端工程化、业务中后台、用户体验优化与高质量交付。
+  具备从需求理解、技术方案设计、功能开发、性能优化到线上问题排查的完整项目经验。
+</p>
 
-💪 He has the following skills:
+<p>
+  🚀&nbsp;&nbsp;曾参与多个复杂业务系统的建设，熟悉大规模前端项目的开发流程，重视代码质量、组件复用、可维护性和团队协作。
+  对新技术保持持续学习和实践，喜欢用工程化思维解决真实业务问题。
+</p>
+
+## 💪 Skills
+
 **Web Developer**
-&emsp;&emsp;
+
 <p align="center">
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
@@ -38,11 +39,11 @@
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
 </div>
-<p></p>
+</p>
+
 <br />
 
-
-🧰 **Environment**
+## 🧰 Environment
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -54,15 +55,8 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+## 🚀 Actions
 
-<!-- profile-3d-contrib -->
-
-# 🚀 Actions
-
-<!-- metrics 基础资料 -->
-
-
-<!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
 <td valign="left">
