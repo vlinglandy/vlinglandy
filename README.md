@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://gql.fit/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);4%20Years%20Frontend%20Engineer;%E4%B8%93%E6%B3%A8%E5%B7%A5%E7%A8%8B%E5%8C%96%E3%80%81%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BA%A4%E4%BB%98&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);6%20Years%20Frontend%20Engineer;%E4%B8%93%E6%B3%A8%E5%B7%A5%E7%A8%8B%E5%8C%96%E3%80%81%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BA%A4%E4%BB%98&center=true&size=27">
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 # 青衡 🧑🏻‍💻
 
 <p>
-  ✍️&nbsp;&nbsp;四年前端开发工程师，现居上海。长期专注于 Web 前端工程化、业务中后台、用户体验优化与高质量交付。
+  ✍️&nbsp;&nbsp;六年前端开发工程师。长期专注于 Web 前端工程化、业务中后台、用户体验优化与高质量交付。
   具备从需求理解、技术方案设计、功能开发、性能优化到线上问题排查的完整项目经验。
 </p>
 
