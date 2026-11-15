@@ -36,7 +36,7 @@ const qingheng: AIEngineer = {
 - 🧠 &nbsp;深耕 **LLM 应用与 Agent 工程**：从 Prompt / Context Engineering 到 Tool Use、MCP、Multi-Agent 编排，打通 Agent 从 Demo 到生产的全链路
 - 🧩 &nbsp;熟悉 **Agent Harness** 设计：工具注册、权限模式、Hooks 拦截、Skills 按需加载、Subagent 并行委派、上下文自动压缩与长期记忆
 - 🔁 &nbsp;构建可靠的 **Agent Loop**：Think → Act → Observe → Reflect 闭环、终止条件、失败重试、Human-in-the-loop 审批与 Eval 评测
-- 🎨 &nbsp;**6 年资深前端**：负责过复杂中后台、低代码平台和 3D 可视化项目，在工程化、组件体系、性能优化和线上质量方面有深厚积累
+- 🎨 &nbsp;**6 年资深开发**：负责过复杂中后台、低代码平台和 3D 可视化项目，在工程化、组件体系、性能优化和线上质量方面有深厚积累
 - 🚀 &nbsp;让 AI 能力在前端**以产品形态落地**：流式对话、生成式 UI、AI Copilot、端侧推理（WebLLM / WebGPU）
 
 <br/>
