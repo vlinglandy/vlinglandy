@@ -20,15 +20,15 @@
 
 ```ts
 const qingheng: AIEngineer = {
-  role: "AI 应用开发工程师 / 资深前端工程师",
+  role: "AI 应用开发工程师 / 资深开发工程师",
   experience: "6+ years of Web Engineering",
   focus: ["AI Agent", "Agent Harness", "Agent Loop", "MCP & Skills", "RAG", "Generative UI"],
   building: [
     "可落地的企业级 AI Agent 平台：工具调用 · 多 Agent 协作 · 长任务自主循环",
     "Agent Harness：权限沙箱 · Hooks · Skills · Memory · Context Compaction",
-    "AI-Native 前端：流式渲染 · 生成式 UI · Copilot 交互",
+    "AI-Native 开发：流式渲染 · 生成式 UI · Copilot 交互",
   ],
-  frontend: ["React", "Next.js", "Vue", "TypeScript", "Three.js", "工程化", "性能优化", "低代码", "微前端"],
+  frontend: ["React", "Next.js", "Vue", "TypeScript", "Three.js", "工程化", "性能优化", "低代码", "微开发"],
   philosophy: "LLM 是大脑，Harness 是身体，Loop 是生命力 —— 让 AI 真正交付价值。",
 };
 ```
@@ -37,7 +37,7 @@ const qingheng: AIEngineer = {
 - 🧩 &nbsp;熟悉 **Agent Harness** 设计：工具注册、权限模式、Hooks 拦截、Skills 按需加载、Subagent 并行委派、上下文自动压缩与长期记忆
 - 🔁 &nbsp;构建可靠的 **Agent Loop**：Think → Act → Observe → Reflect 闭环、终止条件、失败重试、Human-in-the-loop 审批与 Eval 评测
 - 🎨 &nbsp;**6 年资深开发**：负责过复杂中后台、低代码平台和 3D 可视化项目，在工程化、组件体系、性能优化和线上质量方面有深厚积累
-- 🚀 &nbsp;让 AI 能力在前端**以产品形态落地**：流式对话、生成式 UI、AI Copilot、端侧推理（WebLLM / WebGPU）
+- 🚀 &nbsp;让 AI 能力在开发**以产品形态落地**：流式对话、生成式 UI、AI Copilot、端侧推理（WebLLM / WebGPU）
 
 <br/>
 
@@ -154,7 +154,7 @@ const qingheng: AIEngineer = {
 </td>
 </tr>
 <tr>
-<td align="center" width="160"><b>🎨 生成式 UI 与前端 AI</b></td>
+<td align="center" width="160"><b>🎨 生成式 UI 与开发 AI</b></td>
 <td>
 <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
 <img src="https://img.shields.io/badge/Generative%20UI-EC4899?style=flat-square" alt="Generative UI" />
@@ -220,8 +220,8 @@ const qingheng: AIEngineer = {
   <br/>
   <img src="https://skillicons.dev/icons?i=py,go,pytorch,docker,redis,mysql,postgres,linux,git,githubactions,vercel,vscode&perline=12" />
   <br/><br/>
-<img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96-6366F1?style=for-the-badge" alt="前端工程化" />
-<img src="https://img.shields.io/badge/%E5%BE%AE%E5%89%8D%E7%AB%AF-6366F1?style=for-the-badge" alt="微前端" />
+<img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96-6366F1?style=for-the-badge" alt="开发工程化" />
+<img src="https://img.shields.io/badge/%E5%BE%AE%E5%89%8D%E7%AB%AF-6366F1?style=for-the-badge" alt="微开发" />
 <img src="https://img.shields.io/badge/%E4%BD%8E%E4%BB%A3%E7%A0%81%E5%B9%B3%E5%8F%B0-6366F1?style=for-the-badge" alt="低代码平台" />
 <img src="https://img.shields.io/badge/%E7%BB%84%E4%BB%B6%E5%BA%93%E8%AE%BE%E8%AE%A1-6366F1?style=for-the-badge" alt="组件库设计" />
 <img src="https://img.shields.io/badge/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-6366F1?style=for-the-badge" alt="性能优化" />
